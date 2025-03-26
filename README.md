@@ -2,6 +2,9 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.4.
 
+1.  ![1  Setting up of angular on the command line interface at windows](https://github.com/user-attachments/assets/a43d11c0-5a90-44da-a084-3565657ea730)
+
+
 ## Development server
 
 To start a local development server, run:
