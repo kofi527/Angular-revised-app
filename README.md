@@ -4,6 +4,10 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 
 1.  ![1  Setting up of angular on the command line interface at windows](https://github.com/user-attachments/assets/a43d11c0-5a90-44da-a084-3565657ea730)
 
+2. we run ng serve command and we copy the local host into our webspace.
+
+   ![3  Run ng serve and copy the local host into your webpage very impt](https://github.com/user-attachments/assets/10d84cac-5919-4efb-8239-7db6c90cc961)
+
 
 ## Development server
 
