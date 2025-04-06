@@ -12,6 +12,10 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 
    ![4  here we have a default documentation on the local website page](https://github.com/user-attachments/assets/99ac2c2d-2b6c-4e1f-a397-09daaf7fc242)
 
+4. Explanation of node modules and packages in visual studio code which is needed for your project execution
+
+   ![1  node modules contains all the packages and info of what our project depends on](https://github.com/user-attachments/assets/c50e0be3-2124-4169-a6bc-d92872f4dfe4)
+
    
    
 
