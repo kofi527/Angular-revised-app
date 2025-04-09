@@ -16,7 +16,10 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 
    ![1  node modules contains all the packages and info of what our project depends on](https://github.com/user-attachments/assets/c50e0be3-2124-4169-a6bc-d92872f4dfe4)
 
-   
+5. Understanding the various dependencies in the project directory prior to the project
+
+   ![2  dev dependencies are modules req during development whiles depend are required during front end](https://github.com/user-attachments/assets/759ead88-2a73-4682-b9af-d97137643429)
+
    
 
 ## Development server
