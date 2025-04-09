@@ -20,7 +20,10 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 
    ![2  dev dependencies are modules req during development whiles depend are required during front end](https://github.com/user-attachments/assets/759ead88-2a73-4682-b9af-d97137643429)
 
-   
+6. Gitignore play a crucial role within our project and we need to understand its function within the project directory.
+
+  ![3  gitignore conatians files and folders we do not wish to push to git commit](https://github.com/user-attachments/assets/6ede98b3-201b-4049-acae-14e3f253719f)
+ 
 
 ## Development server
 
