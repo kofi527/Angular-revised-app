@@ -1,9 +1,29 @@
-# MySecondApp
+# REAL ESTATE APPLICATION DEVELOPMENT WITH ANGULAR API SETUP
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.4.
 
 1.  ![1  Setting up of angular on the command line interface at windows](https://github.com/user-attachments/assets/a43d11c0-5a90-44da-a084-3565657ea730)
 
+2. we run ng serve command and we copy the local host into our webspace.
+
+   ![3  Run ng serve and copy the local host into your webpage very impt](https://github.com/user-attachments/assets/10d84cac-5919-4efb-8239-7db6c90cc961)
+
+3. After running ng serve, our local host is activated and running, here is a default documentation page that has been created.
+
+   ![4  here we have a default documentation on the local website page](https://github.com/user-attachments/assets/99ac2c2d-2b6c-4e1f-a397-09daaf7fc242)
+
+4. Explanation of node modules and packages in visual studio code which is needed for your project execution
+
+   ![1  node modules contains all the packages and info of what our project depends on](https://github.com/user-attachments/assets/c50e0be3-2124-4169-a6bc-d92872f4dfe4)
+
+5. Understanding the various dependencies in the project directory prior to the project
+
+   ![2  dev dependencies are modules req during development whiles depend are required during front end](https://github.com/user-attachments/assets/759ead88-2a73-4682-b9af-d97137643429)
+
+6. Gitignore play a crucial role within our project and we need to understand its function within the project directory.
+
+  ![3  gitignore conatians files and folders we do not wish to push to git commit](https://github.com/user-attachments/assets/6ede98b3-201b-4049-acae-14e3f253719f)
+ 
 
 ## Development server
 
