@@ -23,7 +23,11 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 6. Gitignore play a crucial role within our project and we need to understand its function within the project directory.
 
   ![3  gitignore conatians files and folders we do not wish to push to git commit](https://github.com/user-attachments/assets/6ede98b3-201b-4049-acae-14e3f253719f)
- 
+
+7. Packages lockjson contains a history of the dependencies
+
+   ![4  package lockjson contains a history of the dependencies](https://github.com/user-attachments/assets/27471052-0f71-4082-955e-e03895c44fa0)
+
 
 ## Development server
 
