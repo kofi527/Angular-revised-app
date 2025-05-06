@@ -28,6 +28,11 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 
    ![4  package lockjson contains a history of the dependencies](https://github.com/user-attachments/assets/27471052-0f71-4082-955e-e03895c44fa0)
 
+8. The code in the src loads the page in our default page.
+
+   ![5  the code in the src loads the page in our default page](https://github.com/user-attachments/assets/0d79aeca-9036-41f4-aa77-13ce490f5586)
+
+
 
 ## Development server
 
