@@ -32,6 +32,11 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 
    ![5  the code in the src loads the page in our default page](https://github.com/user-attachments/assets/0d79aeca-9036-41f4-aa77-13ce490f5586)
 
+9. The main.tf file is the entry point of our application
+
+    ![6  main tf is the entry point of our application](https://github.com/user-attachments/assets/bd140a1f-2871-41b8-9916-309a3183c2ef)
+
+    
 
 
 ## Development server
