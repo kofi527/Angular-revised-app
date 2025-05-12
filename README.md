@@ -36,6 +36,9 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 
     ![6  main tf is the entry point of our application](https://github.com/user-attachments/assets/bd140a1f-2871-41b8-9916-309a3183c2ef)
 
+10. The first extension to install prior to this project is the angular essentials
+    ![7  first extension to install in angular essentials](https://github.com/user-attachments/assets/944c6917-71bb-4800-b624-886acef7e52f)
+
     
 
 
