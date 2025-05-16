@@ -40,6 +40,9 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
     ![7  first extension to install in angular essentials](https://github.com/user-attachments/assets/944c6917-71bb-4800-b624-886acef7e52f)
 
     
+11. Autoname tag will also be successfully installed into the visual studio code
+
+    ![8  Auto rename tag is successfully installed](https://github.com/user-attachments/assets/72d7dd16-2f7d-42c4-8f91-ac6c29040c51)
 
 
 ## Development server
