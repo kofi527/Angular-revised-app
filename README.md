@@ -23,7 +23,27 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 6. Gitignore play a crucial role within our project and we need to understand its function within the project directory.
 
   ![3  gitignore conatians files and folders we do not wish to push to git commit](https://github.com/user-attachments/assets/6ede98b3-201b-4049-acae-14e3f253719f)
- 
+
+7. Packages lockjson contains a history of the dependencies
+
+   ![4  package lockjson contains a history of the dependencies](https://github.com/user-attachments/assets/27471052-0f71-4082-955e-e03895c44fa0)
+
+8. The code in the src loads the page in our default page.
+
+   ![5  the code in the src loads the page in our default page](https://github.com/user-attachments/assets/0d79aeca-9036-41f4-aa77-13ce490f5586)
+
+9. The main.tf file is the entry point of our application
+
+    ![6  main tf is the entry point of our application](https://github.com/user-attachments/assets/bd140a1f-2871-41b8-9916-309a3183c2ef)
+
+10. The first extension to install prior to this project is the angular essentials
+    ![7  first extension to install in angular essentials](https://github.com/user-attachments/assets/944c6917-71bb-4800-b624-886acef7e52f)
+
+    
+11. Autoname tag will also be successfully installed into the visual studio code
+
+    ![8  Auto rename tag is successfully installed](https://github.com/user-attachments/assets/72d7dd16-2f7d-42c4-8f91-ac6c29040c51)
+
 
 ## Development server
 
