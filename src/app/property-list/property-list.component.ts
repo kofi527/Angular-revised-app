@@ -8,4 +8,12 @@ import { Component } from '@angular/core';
 })
 export class PropertyListComponent {
 
+  Property: Array<any> = [{
+    "Id" : 1,
+    "Name":"Real Estate Housing",
+    "Type":"House",
+    "Price":12000
+
+}
+
 }
