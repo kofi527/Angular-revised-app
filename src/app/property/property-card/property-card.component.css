@@ -1,1 +1,6 @@
 h1 {font-weight: normal;}
+
+.propImg {
+  width: 250px;
+  height: auto;
+}
