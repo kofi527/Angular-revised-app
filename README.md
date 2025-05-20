@@ -44,6 +44,9 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 
     ![8  Auto rename tag is successfully installed](https://github.com/user-attachments/assets/72d7dd16-2f7d-42c4-8f91-ac6c29040c51)
 
+12. intellisense for css will also be installed within vscode prior to our project
+
+    ![10  intellisense for css](https://github.com/user-attachments/assets/2408e06c-6426-4f09-9140-a3cf51cf8f89)
 
 ## Development server
 
