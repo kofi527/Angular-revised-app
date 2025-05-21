@@ -48,6 +48,12 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 
     ![10  intellisense for css](https://github.com/user-attachments/assets/2408e06c-6426-4f09-9140-a3cf51cf8f89)
 
+13. Ceating the necessary folders and typscript files
+
+    ![11  we create a property folder as well as a typscript file within the folder](https://github.com/user-attachments/assets/1d620c33-f8f8-4b84-aa17-004385d5f51f)
+
+    
+
 ## Development server
 
 To start a local development server, run:
